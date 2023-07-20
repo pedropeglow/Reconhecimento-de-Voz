@@ -3,7 +3,7 @@
 Reconhecimento de voz -> Vamos usar o Vercel para o deploy desse site.
 
 <h4 align="center"> 
-	🏁  Organograma 🚀 Finalizado...  🏁
+	🏁  Game - Reconhecimento de Voz 🚀 Finalizado...  🏁
 	Link: https://reconhecimento-de-voz-sage.vercel.app/
 </h4>
 
